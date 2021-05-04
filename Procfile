@@ -1,1 +1,1 @@
-time: python3 time.py
+time: python time.py
